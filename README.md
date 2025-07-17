@@ -2,7 +2,7 @@
 
 <img width="1474" height="814" alt="image" src="https://github.com/user-attachments/assets/727f8942-03b1-4352-b0b8-3685cdcd1332" />
 
-This repository contains my submission for Task 03 of the Data Science Internship at Prodigy Infotech.
+This repository contains my submission for Task 04 of the Data Science Internship at Prodigy Infotech.
 
 The goal of this task is to perform Sentiment Analysis on a Twitter dataset and create visualizations to understand how people feel about different trending topics.
 In this task, I explored the dataset using Python libraries and created various visualizations such as bar charts and heatmaps to examine how sentiments like positive, negative, neutral, and irrelevant are distributed across different topics.
@@ -18,7 +18,7 @@ Through this task, I gained hands-on experience in:
 - Pandas
 - NumPy
 - Seaborn & Matplotlib
--Jupyter Notebook
+- Jupyter Notebook
 
 # Exploratory Data Analysis
 ## Data Cleaning:
