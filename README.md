@@ -1,4 +1,4 @@
-# PRODIGY_DS_04
+# Prodigy InfoTech Data Science Internship Task 2
 
 <img width="1474" height="814" alt="image" src="https://github.com/user-attachments/assets/727f8942-03b1-4352-b0b8-3685cdcd1332" />
 
