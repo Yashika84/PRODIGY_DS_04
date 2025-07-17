@@ -14,31 +14,31 @@ Through this task, I gained hands-on experience in:
 - Drawing insights from public opinion data
 
 # Tools & Libraries
--Python
--Pandas
--NumPy
--Seaborn & Matplotlib
+- Python
+- Pandas
+- NumPy
+- Seaborn & Matplotlib
 -Jupyter Notebook
 
 # Exploratory Data Analysis
 ## Data Cleaning:
--Removed unnecessary columns from the dataset.
--Handled missing or inconsistent data entries.
--Converted sentiment labels into categories for better understanding.
+- Removed unnecessary columns from the dataset.
+- Handled missing or inconsistent data entries.
+- Converted sentiment labels into categories for better understanding.
 
 # Key Insights
--TomClancyRainbowSix was the most talked-about topic.
--Most tweets had a negative sentiment (30.3%), followed by positive (27.5%) and neutral (24.7%).
--Irrelevant tweets made up 17.5% of the data.
--Tech topics like Google and Microsoft had more neutral tweets, indicating balanced or factual discussions.
+- TomClancyRainbowSix was the most talked-about topic.
+- Most tweets had a negative sentiment (30.3%), followed by positive (27.5%) and neutral (24.7%).
+- Irrelevant tweets made up 17.5% of the data.
+- Tech topics like Google and Microsoft had more neutral tweets, indicating balanced or factual discussions.
 
 # Summary
 This sentiment analysis shows that opinions on Twitter are influenced by the nature of the topic.
 The data highlights:
--Emotional response to gaming topics
--TomClancyRainbowSix sparked high engagement, often with strong negative sentiment.
--Balanced discussions around tech
--Google and Microsoft mostly received neutral sentiment, showing objective user behavior.
+- Emotional response to gaming topics
+- TomClancyRainbowSix sparked high engagement, often with strong negative sentiment.
+- Balanced discussions around tech
+- Google and Microsoft mostly received neutral sentiment, showing objective user behavior.
 
 Analyzing sentiment helps understand how different topics are perceived by the public in real-time which will help to enhance the performance and exprience of user
 Through this task, I understood how analyzing social media content can provide deep insights into public opinion, user engagement, and trending topics. It helped me strengthen my skills in data visualization and made me appreciate the power of real-world text data in understanding human behavior.
